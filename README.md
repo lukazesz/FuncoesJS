@@ -2,7 +2,7 @@
 
 ## ✨ Sobre o projeto
 
-Este repositório contém exercícios resolvidos relacionados aos diferentes tipos de funções em JavaScript, além de conceitos essenciais como **métodos, condicionais e laços de repetição**. O objetivo é demonstrar a aplicação prática desses conceitos e como utilizá-los corretamente.
+Este repositório contém exercícios resolvidos relacionados aos diferentes tipos de funções em JavaScript, além de conceitos essenciais como **métodos, condicionais e laços de repetição**. O objetivo é demonstrar a aplicação prática desses conceitos e como utilizá-los corretamente. Acesse a pasta "funcoes_js" para encontrar os arquivos contendo os exercícios Js resolvidos referentes a cada tipo de função.
 
 ---
 
